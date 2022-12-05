@@ -7,7 +7,7 @@ Senior Frontend Developer (React & Angular)
 Specializing in frontend development. Experienced with all stages of the development cycle for dynamic web projects. Strong background in project management and customer relations with a lot of experience in freelance projects and as a remote developer. I have experience with some international and local companies as a developer especially as a Frontend developer but I also covered some projects as a full stack developer.
 
 * 🌍  I'm based in Albania
-* ✉️  You can contact me at [contact@elvissela.com](mailto:contact@elvissela.com)
+* ✉️  You can contact me at [contact@elvissela.com](mailto:elvis89sh@hotmail.com)
 * ⚡  Excellent knowledge of JavaScript (ES6+) / Typescript with modern JS framework like React and Angular
 
 ### Skills
